@@ -1,0 +1,12 @@
+45,65,34,1,true
+23,45,re,12,true
+43,we ,ted,ee,true
+66,fer,ret,der,false
+1,66,fer,ret,true
+66,fer,ret,der,true
+gh,FF$,re,hyr,true
+uu,rt,er,deed,true
+we,t,r,ser,true
+tt,f,gh,fer,true
+56juik,Heidi,Johanna,Fiction,true
+56ghyj,Pride and Prejudice,Jane Austin,Non-Fiction,true
